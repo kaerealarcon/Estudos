@@ -47,3 +47,25 @@ Parte Lógica (programas)
 - Sistema Operacional
 - Aplicativos
 - Utilitários
+- Entre outros
+
+## Programas <> Algorítmos <> Computadores
+Podemos interpretar que, os programas são compiladores de várias linhas de algórtimos que por sua vez rodam em computadores.
+
+## O que é preciso para fazer um programa de computador
+- Uma **linguagem de programação**
+  - São um conjuto de linguagens **léxicas** e **sintáticas**
+- **IDE**
+  - Software para editar e testar o código
+- **Compilador**
+  - Transforma o **código fonte** em **código objeto**
+  - **Gerador de Código** ou **Máquina Virtual**
+    - Software que permite que o programa seja executado
+
+## Linguagem de Programação
+
+## IDE
+
+## Compilador
+
+##
